@@ -1,3 +1,4 @@
 # PROJECT_DEMO
-THIS IS MY FIRST GIT REPOSITORY
+This is my first git repository,
+<br>
 Author-Anikesh Pandey
